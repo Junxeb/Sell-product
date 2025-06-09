@@ -1,0 +1,20 @@
+C:\CPE\sell\sell\bin\Debug\sell.exe.config
+C:\CPE\sell\sell\bin\Debug\sell.exe
+C:\CPE\sell\sell\bin\Debug\sell.pdb
+C:\CPE\sell\sell\obj\Debug\sell.csproj.AssemblyReference.cache
+C:\CPE\sell\sell\obj\Debug\sell.Form1.resources
+C:\CPE\sell\sell\obj\Debug\sell.Properties.Resources.resources
+C:\CPE\sell\sell\obj\Debug\sell.csproj.GenerateResource.cache
+C:\CPE\sell\sell\obj\Debug\sell.csproj.CoreCompileInputs.cache
+C:\CPE\sell\sell\obj\Debug\sell.exe
+C:\CPE\sell\sell\obj\Debug\sell.pdb
+C:\CPE\HW ขายสินค้า\sell\bin\Debug\sell.exe.config
+C:\CPE\HW ขายสินค้า\sell\bin\Debug\sell.exe
+C:\CPE\HW ขายสินค้า\sell\bin\Debug\sell.pdb
+C:\CPE\HW ขายสินค้า\sell\obj\Debug\sell.csproj.AssemblyReference.cache
+C:\CPE\HW ขายสินค้า\sell\obj\Debug\sell.Form1.resources
+C:\CPE\HW ขายสินค้า\sell\obj\Debug\sell.Properties.Resources.resources
+C:\CPE\HW ขายสินค้า\sell\obj\Debug\sell.csproj.GenerateResource.cache
+C:\CPE\HW ขายสินค้า\sell\obj\Debug\sell.csproj.CoreCompileInputs.cache
+C:\CPE\HW ขายสินค้า\sell\obj\Debug\sell.exe
+C:\CPE\HW ขายสินค้า\sell\obj\Debug\sell.pdb
